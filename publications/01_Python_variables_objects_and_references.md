@@ -198,7 +198,7 @@ These concepts become especially important in production systems, libraries, API
 
 The accompanying notebook contains the concepts covered in this article, along with additional tests and experiments that allow each behaviour to be observed directly in Python. 
 
-[Link](http://link).
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/imblessed-tech/articles-publications/blob/main/notebook/01_Python_variables_objects_and_references.ipynb)
 
 ## Conclusion
 
